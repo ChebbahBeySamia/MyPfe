@@ -23,7 +23,7 @@ const Bottombar = (props) => {
                     <div class="col-md-3">
                         <div class="logo">
                             <Link to='/' >
-                                <img src="img/logomarche.png" alt="Logo" />
+                                <img src="img/logo.png" alt="Logo" />
                             </Link>
                         </div>
                     </div>
